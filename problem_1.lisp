@@ -5,7 +5,7 @@
 ;; Find the sum of all the multiples of 3 or 5 below 1000.
 
 
-;; The trivial solution is a loop summing mod5 || mod 3.
+;; The naive solution is a loop summing mod5 || mod 3.
 
 ;; This can be achieved in constant time using the sum of the arithmetic
 ;; progression
